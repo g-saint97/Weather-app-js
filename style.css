@@ -8,6 +8,9 @@ body{
     background: #222;
 }
 
+.weather-app-title{
+    margin-bottom: 25px;
+}
 .card{
     width: 90%;
     max-width: 470px;
